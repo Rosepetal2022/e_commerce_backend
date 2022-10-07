@@ -14,7 +14,6 @@ router.get('/', (req, res) => {
         attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
       }
     ]
-
   })
     .then(categoryData => res.json(categoryData))
     .catch(err => {
