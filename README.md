@@ -24,6 +24,9 @@
 
   Video links for usage
 
+Create, source and seed Database as well as starting server
+* https://drive.google.com/file/d/1JAqsuXdojvMp_qm4S_1yJrMqVeXfI8tT/view
+
 Category routes: 
 * https://drive.google.com/file/d/1Iq-7vVZ7zMX7ZjMgwW17zLk7oAxi78eG/view
 

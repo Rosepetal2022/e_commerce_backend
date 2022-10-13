@@ -1,5 +1,4 @@
 const router = require('express').Router();
-const { runInNewContext } = require('vm');
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
